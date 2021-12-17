@@ -1,4 +1,4 @@
-# Pawns cli
+# PAWNS cli
 ​
 ## Download links
 
