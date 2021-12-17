@@ -7,7 +7,7 @@
 [Linux i386](https://download.iproyal.com/pawns-cli/latest/linux_i386/pawns-cli)\
 [Linux x86 64](https://download.iproyal.com/pawns-cli/latest/linux_x86_64/pawns-cli)\
 [Win32](https://download.iproyal.com/pawns-cli/latest/win32/pawns-cli.exe)\
-[Win64](https://download.iproyal.com/pawns-cli/latest/win64/pawns-cli.exe)\
+[Win64](https://download.iproyal.com/pawns-cli/latest/win64/pawns-cli.exe)
 
 To run
 ​
