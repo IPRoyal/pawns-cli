@@ -11,6 +11,7 @@
 
 To run
 ​
-```bash
-pawns-cli -email=email@example.com -password=change_me -device-name=raspberrypi -accept-tos
+```
+chmod +x pawns-cli
+./pawns-cli -email=email@example.com -password=change_me -device-name=raspberrypi -accept-tos
 ```
