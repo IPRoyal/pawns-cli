@@ -1,5 +1,7 @@
 # PAWNS cli
-​
+
+Cli version of [IPRoyal Pawns](https://iproyal.com/pawns/) application.
+
 ## Download links
 
 [Linux aarch64](https://download.iproyal.com/pawns-cli/latest/linux_aarch64/pawns-cli)\
@@ -9,8 +11,10 @@
 [Win32](https://download.iproyal.com/pawns-cli/latest/win32/pawns-cli.exe)\
 [Win64](https://download.iproyal.com/pawns-cli/latest/win64/pawns-cli.exe)
 
-To run
-​
+## Running application
+
 ```bash
+chmod u+x pawns-cli
+
 pawns-cli -email=email@example.com -password=change_me -device-name=raspberrypi -accept-tos
 ```
