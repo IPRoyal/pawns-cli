@@ -16,5 +16,5 @@ Cli version of [IPRoyal Pawns](https://iproyal.com/pawns/) application.
 ```bash
 chmod u+x pawns-cli
 
-pawns-cli -email=email@example.com -password=change_me -device-name=raspberrypi -accept-tos
+./pawns-cli -email=email@example.com -password=change_me -device-name=raspberrypi -accept-tos
 ```
