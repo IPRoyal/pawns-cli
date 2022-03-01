@@ -2,6 +2,8 @@
 
 Cli version of [IPRoyal Pawns](https://iproyal.com/pawns/) application.
 
+[Complete tutorial on running IPRoyal PAWNS on Raspberry Pi](https://peppe8o.com/iproyal-with-raspberry-pi-passive-income-service-by-sharing-internet-bandwidth/)
+
 ## Download links
 
 [Linux aarch64](https://download.iproyal.com/pawns-cli/latest/linux_aarch64/pawns-cli)\
